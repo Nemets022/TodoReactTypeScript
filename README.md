@@ -1,5 +1,6 @@
 Данный проект был создан с помощью [Create React App](https://github.com/facebook/create-react-app) и [TypeScript](https://www.typescriptlang.org/).
 
+![Image alt](https://github.com/Nemets022/{repository}/raw/master/TodoReactTS.png)
 
 ## Установка пакетов
 

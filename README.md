@@ -1,5 +1,10 @@
 Данный проект был создан с помощью [Create React App](https://github.com/facebook/create-react-app) и [TypeScript](https://www.typescriptlang.org/).
 
+
+## Установка пакетов
+
+### `yarn install` или `npm install`
+
 ## Доступные скрипты
 
 Для запуска проекта введите
